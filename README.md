@@ -92,7 +92,6 @@ UX Comparison
 🚀 Technologies & Tools Used
 
 - Figma (UI/UX Design & Prototyping)
-- HTML / CSS (if implemented)
 - GitHub (Project Hosting)
 
 📂 Project Structure
