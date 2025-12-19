@@ -1,21 +1,22 @@
 
 # Damson Furniture Website Redesign
+![Uploading damson 11111 (2)_page-0001.jpg…]()
 
 Human Computer Interaction (HCI) Project
 
 
-📌 Project Overview
+#📌 Project Overview
 
 This project is part of the Human Computer Interaction (HCI) course.
 The goal of this project is to analyze a poorly designed website interface and redesign it to improve usability, user experience (UX), and user interface (UI) based on HCI principles.
 
 The selected case study is the Damson Furniture Website, which suffers from multiple UI and UX issues that negatively affect user interaction and satisfaction.
 
-🌐 Original Website
+#🌐 Original Website
 
 🔗 https://www.damsonfurniture.com
 
-🎯 Project Objectives
+#🎯 Project Objectives
 
 - Identify UI and UX problems in the original website
 - Apply HCI principles to improve usability
@@ -23,13 +24,13 @@ The selected case study is the Damson Furniture Website, which suffers from mult
 - Enhance navigation, readability, and user flow
 - Compare the old design with the new redesign
 
-👥 Target Users
+#👥 Target Users
 
 Users interested in buying home furniture online  
 Adults aged 25–55  
 Users who prefer easy navigation and clear product information
 
-⚠️ Problems in the Original Design
+#⚠️ Problems in the Original Design
 
 UI Issues
 - Poor visual hierarchy
@@ -38,14 +39,14 @@ UI Issues
 - Weak contrast and readability
 - Unclear call-to-action buttons
 
-UX Issues
+#UX Issues
 - Confusing navigation structure
 - Poor product categorization
 - Difficult search and filtering
 - Lack of feedback and guidance
 - Low overall usability
 
-📐 HCI Principles Applied
+#📐 HCI Principles Applied
 
 - Visibility of system status
 - Consistency and standards
@@ -54,7 +55,7 @@ UX Issues
 - Aesthetic and minimalist design
 - Recognition rather than recall
 
-🎨 Redesign Approach
+#🎨 Redesign Approach
 
 - Simplifying the layout
 - Improving visual hierarchy
@@ -62,7 +63,7 @@ UX Issues
 - Enhancing navigation and user flow
 - Making important actions clear and accessible
 
-🖥️ Old vs New Design Comparison
+#🖥️ Old vs New Design Comparison
 
 UI Comparison
 - Layout: Cluttered → Clean & structured
@@ -70,32 +71,32 @@ UI Comparison
 - Typography: Hard to read → Clear & readable
 - Buttons: Unclear → Clear CTA buttons
 
-UX Comparison
+#UX Comparison
 - Navigation: Confusing → Simple & clear
 - Usability: Low → High
 - Learnability: Difficult → Easy
 - User Flow: Interrupted → Smooth
 
-♿ Accessibility Improvements
+# Accessibility Improvements
 
 - Improved color contrast
 - Better font sizes and spacing
 - Clear labels and buttons
 - Easier navigation for all users
 
-📈 Results & Impact
+ #📈 Results & Impact
 
 - Improved user experience
 - Faster task completion
 - Reduced user confusion
 - More professional and trustworthy appearance
 
-🚀 Technologies & Tools Used
+# 🚀 Technologies & Tools Used
 
 - Figma (UI/UX Design & Prototyping)
 - GitHub (Project Hosting)
 
-📂 Project Structure
+#📂 Project Structure
 /damson-hci-redesign
 │
 ├── old-design/
@@ -112,22 +113,22 @@ UX Comparison
 │
 └── README.md
 
-🔗 Prototype Link
+#🔗 Prototype Link
 
 Figma prototype: https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
 
 (If you prefer, I can replace the above URL with the canonical Figma share link when you confirm the correct one.)
 
-🧠 Key Learnings
+#🧠 Key Learnings
 
 Understanding real user problems is essential  
 HCI principles greatly improve usability  
 UI and UX must work together to create effective designs
 
-📌 Conclusion
+#📌 Conclusion
 
 This project demonstrates how applying Human Computer Interaction principles can significantly improve a poorly designed website, resulting in a more usable, accessible, and user-friendly interface.
-
+#📌 PROJECT
  
 Course: Human Computer Interaction  
 University: Tanta University  
