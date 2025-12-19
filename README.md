@@ -18,6 +18,12 @@ The selected case study is the Damson Furniture Website, which suffers from mult
 
 🔗 https://www.damsonfurniture.com
 
+# 🔗  Redsign Prototype Link
+
+Figma prototype:
+https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
+
+
 # 🎯 Project Objectives
 
 - Identify UI and UX problems in the original website
@@ -114,11 +120,6 @@ UX Comparison
 │   └── figma-link.txt
 │
 └── README.md
-
-# 🔗 Prototype Link
-
-Figma prototype:
-https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
 
 
 # 🧠 Key Learnings
