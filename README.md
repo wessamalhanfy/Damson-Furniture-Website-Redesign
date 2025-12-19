@@ -127,7 +127,15 @@ UI and UX must work together to create effective designs
 
 This project demonstrates how applying Human Computer Interaction principles can significantly improve a poorly designed website, resulting in a more usable, accessible, and user-friendly interface.
 
-👤 Author  
+ 
 Course: Human Computer Interaction  
 University: Tanta University  
 Year: 2025
+Under Supervision:
+Dr/ Osama Ghoneim
+Eng/ Omar Khaled
+
+team :
+Wessam Mohammed Elsayed Alhanafy
+Heba Ahmed Ibrahim Agamy
+Menna Ahmed Ibrahim Agamy
