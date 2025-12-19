@@ -2,7 +2,7 @@
 # Damson Furniture Website Redesign
 
 Human Computer Interaction (HCI) Project
-![Uploading damson 11111 (2)_page-0001.jpg…]()
+
 
 📌 Project Overview
 
