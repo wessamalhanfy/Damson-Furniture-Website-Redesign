@@ -5,18 +5,18 @@
 Human Computer Interaction (HCI) Project
 
 
-#📌 Project Overview
+# 📌 Project Overview
 
 This project is part of the Human Computer Interaction (HCI) course.
 The goal of this project is to analyze a poorly designed website interface and redesign it to improve usability, user experience (UX), and user interface (UI) based on HCI principles.
 
 The selected case study is the Damson Furniture Website, which suffers from multiple UI and UX issues that negatively affect user interaction and satisfaction.
 
-#🌐 Original Website
+# 🌐 Original Website
 
 🔗 https://www.damsonfurniture.com
 
-#🎯 Project Objectives
+# 🎯 Project Objectives
 
 - Identify UI and UX problems in the original website
 - Apply HCI principles to improve usability
@@ -24,13 +24,13 @@ The selected case study is the Damson Furniture Website, which suffers from mult
 - Enhance navigation, readability, and user flow
 - Compare the old design with the new redesign
 
-#👥 Target Users
+# 👥 Target Users
 
 Users interested in buying home furniture online  
 Adults aged 25–55  
 Users who prefer easy navigation and clear product information
 
-#⚠️ Problems in the Original Design
+# ⚠️ Problems in the Original Design
 
 UI Issues
 - Poor visual hierarchy
