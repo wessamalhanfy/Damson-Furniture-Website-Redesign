@@ -1,10 +1,10 @@
 
 
 # Damson Furniture Website Redesign
-
+Human Computer Interaction (HCI) Project
 ![Damson Furniture Website](damson_ui.jpg)
 
-Human Computer Interaction (HCI) Project
+
 
 
 # 📌 Project Overview
