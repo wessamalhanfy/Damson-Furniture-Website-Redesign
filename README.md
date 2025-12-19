@@ -117,9 +117,9 @@ UX Comparison
 
 # 🔗 Prototype Link
 
-Figma prototype: https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
+Figma prototype:
+https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
 
-(If you prefer, I can replace the above URL with the canonical Figma share link when you confirm the correct one.)
 
 # 🧠 Key Learnings
 
