@@ -1,6 +1,6 @@
 ![Uploading damson 11111 (2)_page-0001.jpg…]()
 # Damson Furniture Website Redesign
-![Uploading damson 11111 (2)_page-0001.jpg…]()
+
 
 Human Computer Interaction (HCI) Project
 
@@ -39,14 +39,14 @@ UI Issues
 - Weak contrast and readability
 - Unclear call-to-action buttons
 
-#UX Issues
+ UX Issues
 - Confusing navigation structure
 - Poor product categorization
 - Difficult search and filtering
 - Lack of feedback and guidance
 - Low overall usability
 
-#📐 HCI Principles Applied
+# 📐 HCI Principles Applied
 
 - Visibility of system status
 - Consistency and standards
@@ -55,7 +55,7 @@ UI Issues
 - Aesthetic and minimalist design
 - Recognition rather than recall
 
-#🎨 Redesign Approach
+# 🎨 Redesign Approach
 
 - Simplifying the layout
 - Improving visual hierarchy
@@ -63,7 +63,7 @@ UI Issues
 - Enhancing navigation and user flow
 - Making important actions clear and accessible
 
-#🖥️ Old vs New Design Comparison
+# 🖥️ Old vs New Design Comparison
 
 UI Comparison
 - Layout: Cluttered → Clean & structured
@@ -71,20 +71,20 @@ UI Comparison
 - Typography: Hard to read → Clear & readable
 - Buttons: Unclear → Clear CTA buttons
 
-#UX Comparison
+UX Comparison
 - Navigation: Confusing → Simple & clear
 - Usability: Low → High
 - Learnability: Difficult → Easy
 - User Flow: Interrupted → Smooth
 
-# Accessibility Improvements
+ Accessibility Improvements
 
 - Improved color contrast
 - Better font sizes and spacing
 - Clear labels and buttons
 - Easier navigation for all users
 
- #📈 Results & Impact
+ # 📈 Results & Impact
 
 - Improved user experience
 - Faster task completion
@@ -96,7 +96,7 @@ UI Comparison
 - Figma (UI/UX Design & Prototyping)
 - GitHub (Project Hosting)
 
-#📂 Project Structure
+# 📂 Project Structure
 /damson-hci-redesign
 │
 ├── old-design/
@@ -113,22 +113,22 @@ UI Comparison
 │
 └── README.md
 
-#🔗 Prototype Link
+# 🔗 Prototype Link
 
 Figma prototype: https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtMo75Rhkai4iI-1
 
 (If you prefer, I can replace the above URL with the canonical Figma share link when you confirm the correct one.)
 
-#🧠 Key Learnings
+# 🧠 Key Learnings
 
 Understanding real user problems is essential  
 HCI principles greatly improve usability  
 UI and UX must work together to create effective designs
 
-#📌 Conclusion
+# 📌 Conclusion
 
 This project demonstrates how applying Human Computer Interaction principles can significantly improve a poorly designed website, resulting in a more usable, accessible, and user-friendly interface.
-#📌 PROJECT
+# 📌 PROJECT
  
 Course: Human Computer Interaction  
 University: Tanta University  
