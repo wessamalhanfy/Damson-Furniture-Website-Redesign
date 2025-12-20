@@ -27,6 +27,11 @@ https://figma.com/design/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=0-1&t=vSbtM
 view link:
 
 https://www.figma.com/proto/ISYLn5bW117aXdjMQsGMDj/damson-11111?node-id=1-2&p=f&t=bxWAYZaf20Lci0qj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&hide-ui=1
+
+# presentation
+
+https://www.canva.com/design/DAG75gMYj2Q/4lS7EhshZMZH4PNxKli58Q/edit?utm_content=DAG75gMYj2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # 🎯 Project Objectives
 
 - Identify UI and UX problems in the original website
